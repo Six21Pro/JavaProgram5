@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PostFixCalculator
+comment1.params=
+comment1.target=PostFixCalculator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PostFixCalculator\r\n
+comment2.params=y
+comment2.target=double\ eval(java.lang.String)
+numComments=3
